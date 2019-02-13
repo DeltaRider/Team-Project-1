@@ -184,7 +184,7 @@ html, body {
     vertical-align: middle;
 }
 
-.popup img {
+.popup #popup {
     width: 500px;
     position: absolute;
     right: 340px;
@@ -204,4 +204,12 @@ html, body {
 
 #close button {
     padding-top: 0px;
+}
+
+#popstar {
+    height: 30px;
+    position: absolute;
+    top: 160px;
+    left: 365px;
+
 }
