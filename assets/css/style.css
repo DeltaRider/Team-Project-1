@@ -190,7 +190,7 @@ html, body {
     right: 340px;
     bottom: 230px;
     border-radius: 22px;
-    box-shadow: 0px 0px 20px 5px rgba(170, 170, 170);
+    box-shadow: 0px 0px 20px 5px rgba(0, 0, 0);
 }
 
 .popup.hidden {
